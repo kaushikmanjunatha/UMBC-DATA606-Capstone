@@ -3,7 +3,7 @@
 ![Headshot](./headshot.jpeg)
 
 Baltimore, MD  
-+1 (410) 858-3742  
+- **Contact:** +1 (410) 858-3742  
 - **Email:** [kaushikmanjunatha97@gmail.com](mailto:kaushikmanjunatha97@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/kaushikm97/](https://www.linkedin.com/in/kaushikm97/)
 
