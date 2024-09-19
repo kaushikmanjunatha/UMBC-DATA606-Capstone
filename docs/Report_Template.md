@@ -98,5 +98,5 @@ Develop a web app for people to interact with your trained models. Potential too
 ## 8. References 
 
 - (https://brightdata.com/blog/how-tos/using-selenium-for-web-scraping 
-)<img width="624" alt="image" src="https://github.com/user-attachments/assets/bea4e246-6c97-4860-9c63-875a485e0d15">
+)
 
