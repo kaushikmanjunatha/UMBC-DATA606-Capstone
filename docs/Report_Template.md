@@ -1,17 +1,11 @@
-# The Template and Guideline for the Final Report
-
-- This document serves as a guide for developing project proposal which will eventually become the proposal and final report.
-- You start with the end in mind and adopt an agile approach:
-  - Making progress continuously towards your goal.
-  - Updating this document continuously along the way.
  
 ## 1. Title and Author
 
-- Project Title
+- USED CAR ANALYTICS
+
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- Author Name 
-- Link to the author's GitHub repo of the project
-- Link to the author's LinkedIn profile
+- Kaushik Manjunatha
+- [Link to the author's GitHub repo of the project](https://www.linkedin.com/in/kaushikm97/)
 - Link to your PowerPoint presentation file
 - Link to your YouTube video 
     
