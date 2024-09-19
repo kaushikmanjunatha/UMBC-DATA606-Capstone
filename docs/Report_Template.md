@@ -15,17 +15,25 @@
 - *Market Channels :* Dealerships , Private Sales , Online Platforms
 
 *Personal Experience with Used Car Pricing*
-Pricing was overwhelming when searching for a used car.
-No reliable method to verify correct pricing.
-Relied on word of mouth for pricing validation.
-<img width="504" alt="image" src="https://github.com/user-attachments/assets/02bfdbfc-2b92-47aa-86b7-d0bff3b03803">
+- Pricing was overwhelming when searching for a used car.
+- No reliable method to verify correct pricing.
+- Relied on word of mouth for pricing validation.
 
 
+*Why does it matter?*
+This project addresses the common challenge of pricing uncertainty for both buyers and sellers.
 
 
-- What is it about? 
-- Why does it matter? 
-- What are your research questions?
+*Research questions*
+1. Prediction Accuracy
+Can machine learning models outperform traditional pricing heuristics in accurately predicting used car values, especially in high-demand vehicle categories like electric, Gasoline and hybrid models?
+2. Depreciation Analysis
+How does the depreciation rate vary across different car makes and models over time?
+
+Future Scope :
+1. Maintenance Cost Prediction
+Can we predict the maintenance costs for the used cars?
+
 
 ## 3. Data 
 
