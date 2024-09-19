@@ -30,7 +30,7 @@ Can machine learning models outperform traditional pricing heuristics in accurat
 2. Depreciation Analysis
 How does the depreciation rate vary across different car makes and models over time?
 
-Future Scope :
+*Future Scope :*
 1. Maintenance Cost Prediction
 Can we predict the maintenance costs for the used cars?
 
@@ -39,18 +39,15 @@ Can we predict the maintenance costs for the used cars?
 
 Describe the datasets you are using to answer your research questions.
 
-- Data sources
-- Data size (MB, GB, etc.)
-- Data shape (# of rows and # columns)
-- Time period (for example, 2010 to 2020) if your data are time-bound
-- **What does each row represent?(a patient, a school, a crime, etc.)**
+- Data source : Cars.com
+- Data size (2.9 MB)
+- Data shape (14420 and 15 columns)
+- **Each row represents a single car listing from a dealership**
 - Data dictionary
-  - Columns name
-  - Data type
-  - Defition
-  - Potential values (for categorical valuables, what are the categories?)
+  <img width="249" alt="image" src="https://github.com/user-attachments/assets/9d760765-6348-40f9-a9fa-08f276a3ea31">
+
 - Which variable/column will be your target/label in your ML model?
-- Which variables/columns may be selected as features/predictors for your ML models?
+  Price_usd
 
 ## 4. Exploratory Data Analysis (EDA)
 
