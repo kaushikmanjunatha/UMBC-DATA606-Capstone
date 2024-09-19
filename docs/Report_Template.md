@@ -5,7 +5,7 @@
 
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Kaushik Manjunatha
-- [LinkedIN](https://www.linkedin.com/in/kaushikm97/)
+- [LinkedIn](https://www.linkedin.com/in/kaushikm97/)
 - [Presentation Slides](https://github.com/kaushikmanjunatha/UMBC-DATA606-Capstone/blob/main/docs/Kaushik%20Manjunatha%20Project%20Presentation.pptx)
 - Youtube
     
