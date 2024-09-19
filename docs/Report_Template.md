@@ -11,7 +11,7 @@
     
 ## 2. Background
 
-- *Total Market Value:* $1.6 trillion in the U.S. as of 2023https://github.com/kaushikmanjunatha/UMBC-DATA606-Capstone/blob/main/docs/Report_Template.md
+- *Total Market Value:* $1.6 trillion in the U.S. as of 2023
 - *Market Channels :* Dealerships , Private Sales , Online Platforms
 
 *Personal Experience with Used Car Pricing*
