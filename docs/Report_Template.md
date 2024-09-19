@@ -11,26 +11,26 @@
     
 ## 2. Background
 
-- *Total Market Value:* $1.6 trillion in the U.S. as of 2023
-- *Market Channels :* Dealerships , Private Sales , Online Platforms
+- **Total Market Value:** $1.6 trillion in the U.S. as of 2023
+- **Market Channels :** Dealerships , Private Sales , Online Platforms
 
-*Personal Experience with Used Car Pricing*
+**Personal Experience with Used Car Pricing**
 - Pricing was overwhelming when searching for a used car.
 - No reliable method to verify correct pricing.
 - Relied on word of mouth for pricing validation.
 
 
-*Why does it matter?*
+**Why does it matter?**
 - This project addresses the common challenge of pricing uncertainty for both buyers and sellers.
 
 
-*Research questions*
+**Research questions**
 1. Prediction Accuracy
 Can machine learning models outperform traditional pricing heuristics in accurately predicting used car values, especially in high-demand vehicle categories like electric, Gasoline and hybrid models?
 2. Depreciation Analysis
 How does the depreciation rate vary across different car makes and models over time?
 
-*Future Scope :*
+**Future Scope :**
 1. Maintenance Cost Prediction
 Can we predict the maintenance costs for the used cars?
 
@@ -50,22 +50,26 @@ Describe the datasets you are using to answer your research questions.
 - Which variable/column will be your target/label in your ML model?
   Price_usd
 
-## 4. Exploratory Data Analysis (EDA)
+## 4. Project Implementation Plan
 
-- Perform data exploration using Jupyter Notebook
-- You would focus on the target variable and the selected features and drop all other columns.
-- produce summary statistics of key variables
-- Create visualizations (I recommend using **Plotly Express**)
-- Find out if the data require cleansing:
-  - Missing values?
-  - Duplicate rows? 
-- Find out if the data require splitting, merging, pivoting, melting, etc.
-- Find out if you need to bring in other data sources to augment your data.
-  - For example, population, socioeconomic data from Census may be helpful.
-- For textual data, you will pre-process (normalize, remove stopwords, tokenize) them before you can analyze them in predictive analysis/machine learning.
-- Make sure the resulting dataset need to be "tidy":
-  - each row represent one observation (ideally one unique entity/subject).
-  - each columm represents one unique property of that entity. 
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/cad41f8e-9b98-4881-819f-d907600d9840">
+
+
+## 5. Exploratory Data Analysis (EDA)
+
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/605ff72d-395f-4b0c-8f64-0683a4492c11">
+
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/42f5c83a-4015-4854-85c9-1252923df9d0">
+
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/b374bb3d-c5f9-4880-a76c-c4358138cda6">
+
+<img width="236" alt="image" src="https://github.com/user-attachments/assets/8176b3b6-8f6f-456c-89f0-cbbb5d460611">
+
+
+
+
+
+
 
 ## 5. Model Training 
 
