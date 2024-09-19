@@ -21,7 +21,7 @@
 
 
 *Why does it matter?*
-This project addresses the common challenge of pricing uncertainty for both buyers and sellers.
+- This project addresses the common challenge of pricing uncertainty for both buyers and sellers.
 
 
 *Research questions*
