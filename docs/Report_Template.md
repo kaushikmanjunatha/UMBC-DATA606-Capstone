@@ -44,6 +44,7 @@ Describe the datasets you are using to answer your research questions.
 - Data shape (14420 and 15 columns)
 - **Each row represents a single car listing from a dealership**
 - Data dictionary
+
   <img width="249" alt="image" src="https://github.com/user-attachments/assets/9d760765-6348-40f9-a9fa-08f276a3ea31">
 
 - Which variable/column will be your target/label in your ML model?
