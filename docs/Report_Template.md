@@ -5,13 +5,23 @@
 
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Kaushik Manjunatha
-- [Link to the author's GitHub repo of the project](https://www.linkedin.com/in/kaushikm97/)
-- Link to your PowerPoint presentation file
-- Link to your YouTube video 
+- [LinkedIN](https://www.linkedin.com/in/kaushikm97/)
+- [Presentation Slides](https://github.com/kaushikmanjunatha/UMBC-DATA606-Capstone/blob/main/docs/Kaushik%20Manjunatha%20Project%20Presentation.pptx)
+- Youtube
     
 ## 2. Background
 
-Provide the background information about the chosen topic. 
+- *Total Market Value:* $1.6 trillion in the U.S. as of 2023https://github.com/kaushikmanjunatha/UMBC-DATA606-Capstone/blob/main/docs/Report_Template.md
+- *Market Channels :* Dealerships , Private Sales , Online Platforms
+
+*Personal Experience with Used Car Pricing*
+Pricing was overwhelming when searching for a used car.
+No reliable method to verify correct pricing.
+Relied on word of mouth for pricing validation.
+<img width="504" alt="image" src="https://github.com/user-attachments/assets/02bfdbfc-2b92-47aa-86b7-d0bff3b03803">
+
+
+
 
 - What is it about? 
 - Why does it matter? 
