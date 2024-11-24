@@ -103,7 +103,7 @@ Describe the datasets you are using to answer your research questions.
 - Multicollinearity in dataset (Age, Year, Dealer)
 - Non Linear relations (User Reviews and Dealership Rating)
 
-*Improvement*
+**Improvement**
 - Linear Regression - R-squared: - 0.7568
 
 **Ensemble Techniques**
@@ -129,18 +129,14 @@ Describe the datasets you are using to answer your research questions.
 
 ## 6. Application of the Trained Models
 
-Develop a web app for people to interact with your trained models. Potential tools for web app development:
-
-- **Streamlit** (recommended for its simplicity and ease to learn)
-- Dash
-- Flask
+ https://used-cars-price-prediction-usa.streamlit.app
 
 ## 7. Conclusion
 
-- Summarize your work and its potetial application
-- Point out the limitations of your work
-- Lessons learned 
-- Talk about future research direction
+- Mileage, Age , Make, Model are the significant factors affecting the price of the car.
+- XGBoost with n_estimators=100, max_depth=7 and learning_rate=0.1 is the best performing model with accuracy of 83.24 %.
+
+
 
 ## 8. References 
 
