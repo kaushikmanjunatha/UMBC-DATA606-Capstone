@@ -87,7 +87,7 @@ Describe the datasets you are using to answer your research questions.
 
 ## 5. Model Training 
 
-*Initial Attempt*
+**Initial Attempt**
 - Dataset split : 80 Test – 20 Train
 
 *Tree Based Algorithms*
@@ -99,13 +99,33 @@ Describe the datasets you are using to answer your research questions.
 *Linear Models*
 - Linear Regression - R-squared: -51310135364.8435
 
-*Addressing Linear Models
+*Addressing Linear Models*
 - Multicollinearity in dataset (Age, Year, Dealer)
 - Non Linear relations (User Reviews and Dealership Rating)
 
-*Improvement
+*Improvement*
 - Linear Regression - R-squared: - 0.7568
 
+**Ensemble Techniques**
+
+*Stacking Regressor with Linear Regression Meta Model and tree-based base models.*
+- R-squared: 0.8397
+- R-squared: 0.8473  (With Hyperparameter tuning for base and meta models)
+
+*Stacking Regressor with different meta models*
+- Ridge - R-squared: 0.8726
+- Lasso - R-squared: 0.8732
+- Decision Tree - R-squared: 0.7521
+- Random Forest - R-squared: 0.8570
+- XGBoost - R-squared: 0.8049
+- GradientBoost - R-squared: 0.8580
+
+**Overfitting problem with Stacking methods**
+
+**Best Model**
+
+- XGBoost (n_estimators=100, max_depth=7, learning_rate=0.1)
+  R-squared: 0.8349
 
 ## 6. Application of the Trained Models
 
