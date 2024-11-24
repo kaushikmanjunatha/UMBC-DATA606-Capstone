@@ -65,20 +65,43 @@ Describe the datasets you are using to answer your research questions.
 
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/8176b3b6-8f6f-456c-89f0-cbbb5d460611">
 
+<img width="562" alt="image" src="https://github.com/user-attachments/assets/069b3820-ed7a-4e29-b561-ef6381a5f66e">
+
+<img width="354" alt="image" src="https://github.com/user-attachments/assets/383f2884-9677-4ce8-827d-89ffb7a01917">
+
+<img width="354" alt="image" src="https://github.com/user-attachments/assets/29c803eb-bc77-4b95-882c-ce28a4edfb60">
+
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/d9790877-ef4e-4e33-8301-6b1e24166f28">
+
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/c1b8e0b5-ee67-4b40-9098-f8ce4cd1f833">
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/ffb2bff9-d3fb-4336-b186-a98e434dacbd">
 
 
-
-
+## 5. Feature Engineering
+- Impute Missing Values with Mean in that Category(i.e by Transmission type, fuel type, drive train, age )
+- Categorical Feature Encoding
+  1. One Hot Encoding - For Linear Based Models
+  2. Label Encoding  - For Tree based models
 
 
 ## 5. Model Training 
+Initial Attempt
+Dataset split : 80 Test – 20 Train
+Tree Based Algorithms
+Decision Tree - R-squared : 0.6178
+Random Forest - R-squared: 0.7904
+XGBoost - R-squared: 0.8223
+GradientBoost - R-squared: 0.7618
+Linear Models
+Linear Regression - R-squared: -51310135364.8435
+Addressing Linear Models
+Multicollinearity in dataset (Age, Year, Dealer)
+Non Linear relations (User Reviews and Dealership Rating)
+Improvement
+Linear Regression - R-squared: - 0.7568
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/06a5f476-c67c-405e-817d-dcb61e0ec65d">
 
-- What models you will be using for predictive analytics?
-- How will you train the models?
-  - Train vs test split (80/20, 70/30, etc.)
-  - Python packages to be used (scikit-learn, NLTK, spaCy, etc.)
-  - The development environments (your laptop, Google CoLab, GitHub CodeSpaces, etc.)
-- How will you measure and compare the performance of the models?
 
 ## 6. Application of the Trained Models
 
