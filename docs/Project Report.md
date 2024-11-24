@@ -86,21 +86,25 @@ Describe the datasets you are using to answer your research questions.
 
 
 ## 5. Model Training 
-Initial Attempt
-Dataset split : 80 Test – 20 Train
-Tree Based Algorithms
-Decision Tree - R-squared : 0.6178
-Random Forest - R-squared: 0.7904
-XGBoost - R-squared: 0.8223
-GradientBoost - R-squared: 0.7618
-Linear Models
-Linear Regression - R-squared: -51310135364.8435
-Addressing Linear Models
-Multicollinearity in dataset (Age, Year, Dealer)
-Non Linear relations (User Reviews and Dealership Rating)
-Improvement
-Linear Regression - R-squared: - 0.7568
-<img width="417" alt="image" src="https://github.com/user-attachments/assets/06a5f476-c67c-405e-817d-dcb61e0ec65d">
+
+*Initial Attempt*
+- Dataset split : 80 Test – 20 Train
+
+*Tree Based Algorithms*
+- Decision Tree - R-squared : 0.6178
+- Random Forest - R-squared: 0.7904
+- XGBoost - R-squared: 0.8223
+- GradientBoost - R-squared: 0.7618
+
+*Linear Models*
+- Linear Regression - R-squared: -51310135364.8435
+
+*Addressing Linear Models
+- Multicollinearity in dataset (Age, Year, Dealer)
+- Non Linear relations (User Reviews and Dealership Rating)
+
+*Improvement
+- Linear Regression - R-squared: - 0.7568
 
 
 ## 6. Application of the Trained Models
