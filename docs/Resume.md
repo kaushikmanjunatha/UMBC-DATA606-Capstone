@@ -1,6 +1,6 @@
 # Kaushik Manjunatha
 
-![Headshot](./docs/headshot.jpeg)
+
 
 Baltimore, MD  
 - **Phone:** +1 (410) 858-3742  
