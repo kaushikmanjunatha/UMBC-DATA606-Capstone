@@ -74,6 +74,12 @@ Describe the datasets you are using to answer your research questions.
 
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/42f5c83a-4015-4854-85c9-1252923df9d0">
 
+- cars with negative age(-1)  are 2025 models
+- majority of cars are relatively new (median 3 years)
+- there are some outliers (up to 69 years old) - Vintage cars
+
+
+
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/b374bb3d-c5f9-4880-a76c-c4358138cda6">
 
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/8176b3b6-8f6f-456c-89f0-cbbb5d460611">
