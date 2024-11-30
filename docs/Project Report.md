@@ -82,9 +82,15 @@ Describe the datasets you are using to answer your research questions.
 
 <img width="430" alt="image" src="https://github.com/user-attachments/assets/b374bb3d-c5f9-4880-a76c-c4358138cda6">
 
+
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/8176b3b6-8f6f-456c-89f0-cbbb5d460611">
 
+
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/069b3820-ed7a-4e29-b561-ef6381a5f66e">
+- Ferrari, Rolls-Royce, and McLaren are still showing the highest median prices.
+- Other luxury brands like Lamborghini, Jeep, and Lexus also have relatively higher median prices.
+- common brands such as Ford, Toyota, and Chevrolet have significantly lower median car prices.
+
 
 <img width="354" alt="image" src="https://github.com/user-attachments/assets/383f2884-9677-4ce8-827d-89ffb7a01917">
 
