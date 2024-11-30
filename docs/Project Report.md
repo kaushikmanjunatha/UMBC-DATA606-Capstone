@@ -130,6 +130,8 @@ Describe the datasets you are using to answer your research questions.
 ## 6. Application of the Trained Models
 
  https://used-cars-price-prediction-usa.streamlit.app
+ <img width="1465" alt="image" src="https://github.com/user-attachments/assets/fd5363d3-8fda-48ad-9bd1-5d4c81e011bb">
+
 
 ## 7. Conclusion
 
