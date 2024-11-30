@@ -95,6 +95,16 @@
 - Automatic transmissions exhibit the highest price variability.  
 - Manual and CVT transmissions have compact price distributions.
 
+### **Fuel Types**
+
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/d9790877-ef4e-4e33-8301-6b1e24166f28">
+
+- Gasoline and hybrid cars exhibit the widest range of prices
+- Diesel and electric vehicles show more concentrated price distributions
+- automatic transmissions exhibit the highest price variability
+- manual and CVT transmissions have more compact price distributions
+
+
 ### **Mileage vs. Age**
 ![Mileage vs Age](https://github.com/user-attachments/assets/ffb2bff9-d3fb-4336-b186-a98e434dacbd)  
 - Older cars (20–40 years) typically have 100k–200k mileage.  
