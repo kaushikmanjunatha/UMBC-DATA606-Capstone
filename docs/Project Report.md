@@ -1,7 +1,7 @@
  
 ## 1. Title and Author
 
-- USED CAR ANALYTICS
+**USED CAR ANALYTICS**
 
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Kaushik Manjunatha
