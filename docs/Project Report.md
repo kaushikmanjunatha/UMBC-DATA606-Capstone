@@ -120,8 +120,21 @@ Describe the datasets you are using to answer your research questions.
 
 
 
+- Gasoline and hybrid cars exhibit the widest range of prices
+- Diesel and electric vehicles show more concentrated price distributions
+- automatic transmissions exhibit the highest price variability
+- manual and CVT transmissions have more compact price distributions
+
+
+
+
+
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/ffb2bff9-d3fb-4336-b186-a98e434dacbd">
 
+
+- cars with ages between 20-40 years have mileage between 100k and 200k miles.
+- there are a few cars with very high mileage despite being relatively new (ages 0-5 years).
+- The plot also contains some older vehicles with low mileage, which may represent well-preserved, rare, or collectible cars.
 
 
 
