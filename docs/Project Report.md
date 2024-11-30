@@ -9,7 +9,7 @@
 **Links**
 
 - [LinkedIn](https://www.linkedin.com/in/kaushikm97/)
-- [Presentation Slides]([https://github.com/kaushikmanjunatha/UMBC-DATA606-Capstone/blob/main/docs/Kaushik%20Manjunatha%20Project%20Presentation.pptx](https://docs.google.com/presentation/d/1b8btsZQoy73bZ8BdWUShzpqZzj7Zi9y4/edit?usp=share_link&ouid=115650794338613440123&rtpof=true&sd=true))
+- [Presentation Slides](https://docs.google.com/presentation/d/1b8btsZQoy73bZ8BdWUShzpqZzj7Zi9y4/edit?usp=share_link&ouid=115650794338613440123&rtpof=true&sd=true)
 - Youtube
     
 ## 2. Background
