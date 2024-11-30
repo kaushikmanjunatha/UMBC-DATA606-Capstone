@@ -54,10 +54,22 @@ Describe the datasets you are using to answer your research questions.
 
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/cad41f8e-9b98-4881-819f-d907600d9840">
 
+## 5. DATA PRE-PROCESSING
+
+- Data is collected in multiple files, categorized by region, fuel type, and transmission type. The initial step is merging these into a single dataset.
+- The "Make," "Model," and "Year" are clustered together in one field, so they are separated into distinct columns.
+- Car age is calculated based on the current year.
+- Converted "Price," "Reviews," and "Mileage" to numeric values, handling non-numeric entries.
+- Extracted "State" and "County" from the "Location" field.
+- Removed duplicate records, which were identical ads with matching specifications and pricing from the same dealership.
+
 
 ## 5. Exploratory Data Analysis (EDA)
 
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/605ff72d-395f-4b0c-8f64-0683a4492c11">
+- majority of ratings falling between 4 and 5
+- poor-rated dealerships represent a small fraction
+
 
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/42f5c83a-4015-4854-85c9-1252923df9d0">
 
