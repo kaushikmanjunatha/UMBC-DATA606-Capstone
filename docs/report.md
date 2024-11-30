@@ -101,8 +101,6 @@
 
 - Gasoline and hybrid cars exhibit the widest range of prices
 - Diesel and electric vehicles show more concentrated price distributions
-- automatic transmissions exhibit the highest price variability
-- manual and CVT transmissions have more compact price distributions
 
 
 ### **Mileage vs. Age**
