@@ -86,7 +86,9 @@ Describe the datasets you are using to answer your research questions.
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/8176b3b6-8f6f-456c-89f0-cbbb5d460611">
 
 
+
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/069b3820-ed7a-4e29-b561-ef6381a5f66e">
+
 - Ferrari, Rolls-Royce, and McLaren are still showing the highest median prices.
 - Other luxury brands like Lamborghini, Jeep, and Lexus also have relatively higher median prices.
 - common brands such as Ford, Toyota, and Chevrolet have significantly lower median car prices.
@@ -94,13 +96,23 @@ Describe the datasets you are using to answer your research questions.
 
 <img width="354" alt="image" src="https://github.com/user-attachments/assets/383f2884-9677-4ce8-827d-89ffb7a01917">
 
+
+
 <img width="354" alt="image" src="https://github.com/user-attachments/assets/29c803eb-bc77-4b95-882c-ce28a4edfb60">
+
+
 
 <img width="374" alt="image" src="https://github.com/user-attachments/assets/d9790877-ef4e-4e33-8301-6b1e24166f28">
 
+
+
 <img width="375" alt="image" src="https://github.com/user-attachments/assets/c1b8e0b5-ee67-4b40-9098-f8ce4cd1f833">
 
+
+
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/ffb2bff9-d3fb-4336-b186-a98e434dacbd">
+
+
 
 
 ## 5. Feature Engineering
