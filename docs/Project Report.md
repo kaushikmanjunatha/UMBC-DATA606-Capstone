@@ -67,6 +67,7 @@ Describe the datasets you are using to answer your research questions.
 ## 5. Exploratory Data Analysis (EDA)
 
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/605ff72d-395f-4b0c-8f64-0683a4492c11">
+
 - majority of ratings falling between 4 and 5
 - poor-rated dealerships represent a small fraction
 
