@@ -11,7 +11,7 @@
 ### **Links**
 - [LinkedIn](https://www.linkedin.com/in/kaushikm97/)  
 - [Presentation Slides](https://docs.google.com/presentation/d/1b8btsZQoy73bZ8BdWUShzpqZzj7Zi9y4/edit?usp=share_link&ouid=115650794338613440123&rtpof=true&sd=true)  
-- YouTube: Coming Soon  
+- [YouTube] (https://www.youtube.com/watch?v=8R1q5S0LfH4) 
 
 ---
 
